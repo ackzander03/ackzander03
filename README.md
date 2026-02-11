@@ -8,4 +8,4 @@
 
 ## 🎓 Research Background
 
-#### I have experience on two UKRI-funded research projects examining the factors affecting  the dietary patterns of a community of a deprived ward in Reading. 
+#### I have experience on two UKRI-funded research projects examining the factors affecting  the dietary patterns of a deprived community in Reading. 
