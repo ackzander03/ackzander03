@@ -10,6 +10,13 @@
 
 #### I have experience on two UKRI-funded research projects examining the factors affecting  the dietary patterns of a deprived community in Reading. 
 
+## Skills
+
+#### GIS
+#### R
+#### Python
+#### Qualitative Research
+
 ## 👉 Contact me
 
 #### 2761656K@student.gla.ac.uk
