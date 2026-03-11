@@ -10,7 +10,7 @@
 
 #### I have experience on two UKRI-funded research projects examining the factors affecting  the dietary patterns of a deprived community in Reading. 
 
-## Skills
+## 🛠️ Skills
 
 #### GIS
 #### R
